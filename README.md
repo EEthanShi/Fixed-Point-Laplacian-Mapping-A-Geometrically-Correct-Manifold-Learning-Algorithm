@@ -1,2 +1,2 @@
-# A-Discussion-On-the-Validity-of-Manifold-Learning
-Paper code for:A Discussion On the Validity of Manifold Learning
+# Fixed Point Laplacian Mapping: A Geometrically CorrectManifold Learning Algorithm
+Paper code for:Fixed Point Laplacian Mapping: A Geometrically CorrectManifold Learning Algorithm
